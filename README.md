@@ -4,6 +4,8 @@
 - 🌱 Estou no começo dos meus estudos para me tornar Desenvolvedora.
 - 👩🏽‍🦱 Pronomes: ela/dela
 
+##
+
 <div>
  <a href="https://beacons.ai/carrlateixxeira">
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carrlateixxeira&show_icons=true&theme=cobalt"/>
@@ -21,7 +23,7 @@
 ##
 
 <div> 
-  <a href="https://carla-teixeira-771359146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carla-teixeira-771359146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/carrlateixxeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlateixxeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
