@@ -1,7 +1,7 @@
 ### Hello! Sou a Carla Teixeira!
 
 - 👩🏽‍💻 Hoje sou estágiaria na área de Suporte.
-- 🌱 Estou no começo dos meus estudos para me tornar Desenvolvedora.
+- 🌱 
 
 
 ##
