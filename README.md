@@ -2,7 +2,7 @@
 
 - 👩🏽‍💻 Hoje sou estágiaria na área de Suporte.
 - 🌱 Estou no começo dos meus estudos para me tornar Desenvolvedora.
-- 👩🏽‍🦱 Pronomes: ela/dela
+
 
 ##
 
