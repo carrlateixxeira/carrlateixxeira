@@ -1,6 +1,6 @@
 ### Hello! Sou a Carla Teixeira!
 
-- 👩🏽‍💻 Hoje sou estágiaria na área de Suporte.
+- 👩🏽‍💻 Atualmente sou estágiaria na área de Suporte.
 - 🌱 
 
 
