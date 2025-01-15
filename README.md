@@ -1,6 +1,6 @@
 ### Hello World!
 
-- 👩🏽‍💻🌱  Atualmente sou estágiaria na área de Suporte.
+- 👩🏽‍💻🌱  
   
 
 
