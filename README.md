@@ -17,7 +17,7 @@
 
 <div>
  <a href="https://beacons.ai/carrlateixxeira">
- <img height="180cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=carrlateixxeira&show_icons=true&theme=cobalt"/>
+ <img height="250cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=carrlateixxeira&show_icons=true&theme=cobalt"/>
  <img height="180cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrlateixxeira&layout=compact&theme=cobalt"/>
 </div>
 
