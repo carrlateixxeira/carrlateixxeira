@@ -1,9 +1,9 @@
-## Oi, aqui é a Carla!
+# Oi, aqui é a Carla!
 
 - 👩🏽‍💻🌱
 - 
 
-## 💬 
+# 💬 
 
 <div> 
   <a href="https://www.linkedin.com/in/carla-teixeira-771359146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -13,15 +13,15 @@
   
 
 
-## 📉 GitHub Stats
+# 📉 GitHub Stats
 
 <div>
  <a href="https://beacons.ai/carrlateixxeira">
- <img height="180cm" width="500cm" src="https://github-readme-stats.vercel.app/api?username=carrlateixxeira&show_icons=true&theme=cobalt"/>
- <img height="180cm" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrlateixxeira&layout=compact&theme=cobalt"/>
+ <img height="180cm" width="200cm" src="https://github-readme-stats.vercel.app/api?username=carrlateixxeira&show_icons=true&theme=cobalt"/>
+ <img height="180cm" width="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrlateixxeira&layout=compact&theme=cobalt"/>
 </div>
 
-## 🖥️ Tecnologias
+# 🖥️ Tecnologias
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
