@@ -1,7 +1,6 @@
 ## Oi, aqui é a Carla!
 
-- 👩🏽‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estudando JavaScript e React
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
 ## 💬 Contato
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
