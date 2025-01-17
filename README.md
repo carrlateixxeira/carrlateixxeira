@@ -1,7 +1,7 @@
 ## Oi, aqui é a Carla!
 
 - 👩🏽‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱
+- 🌱 Atualmente estudando JavaScript e React
 
 ## 💬 Contato
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -14,7 +14,7 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrlateixxeira&theme=cobalt&hide_border=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🖥️ Tecnologias
+## 🖥️ Linguagens
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
