@@ -1,25 +1,18 @@
 ## Oi, aqui é a Carla!
 
-- 👩🏽‍💻🌱
-- 
+- 👩🏽‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱
 
-## 💬 
-
+## 💬 Contato
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <div> 
   <a href="https://www.linkedin.com/in/carla-teixeira-771359146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlateixxeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  
-
-
 ## 📉 GitHub Stats
-
-<div>
- <a href="https://beacons.ai/carrlateixxeira">
- <img height="250cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=carrlateixxeira&show_icons=true&theme=cobalt"/>
- <img height="180cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrlateixxeira&layout=compact&theme=cobalt"/>
-</div>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrlateixxeira&theme=cobalt&hide_border=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖥️ Tecnologias
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
